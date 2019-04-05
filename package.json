@@ -1,0 +1,23 @@
+{
+  "name": "example-nodejs",
+  "version": "1.0.0",
+  "description": "node.js exercises",
+  "main": "NodeTutorial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielladilauro/example-nodejs.git"
+  },
+  "keywords": [
+    "node",
+    "tutorial"
+  ],
+  "author": "Gabriella <gabriella.dilauro1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielladilauro/example-nodejs/issues"
+  },
+  "homepage": "https://github.com/gabrielladilauro/example-nodejs#readme"
+}
